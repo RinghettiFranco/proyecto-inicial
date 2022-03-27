@@ -6,7 +6,8 @@
 
 ## Diagrama ER
 
-> Se debe incluir un Diagrama ER de los datos a utilizar
+[Distribuidora drawio (1)](https://user-images.githubusercontent.com/54511049/160266757-481dc78b-3bc3-425c-afd4-a9a08629f23b.png)
+
 
 ## Actualizaciones a los datos
 
